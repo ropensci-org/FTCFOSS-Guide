@@ -3,6 +3,7 @@ project:
 
 book:
   title: "From User to Contributor: Organizing Events for First-Time Contributors"
+  llms-text: true
   author: "Yanina Bellini Saibene and Steffi LaZerte"
   date: "2026-01-13"
   favicon: apple-touch-icon.png
