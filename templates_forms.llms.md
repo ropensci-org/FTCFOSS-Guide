@@ -1,0 +1,110 @@
+# Appendix C — Form templates
+
+## C.1 Mini-hackathon
+
+### C.1.1 Registration for mentors
+
+**Call for rOpenSci Maintainers to Support First-Time Contributors**
+
+Welcome! We are looking for maintainers of rOpenSci packages or R packages maintainers to participate in coworking events designed to support people making first-time contributions. If you are interested in participating please fill out this form. Please contact \[CONTACT 1\] or \[CONTACT 2\] if you have any questions, or check out the blog post announcement \[ADD BLOG POST LINK\].
+
+Then, if participating, we ask that maintainers:
+
+- Work with rOpenSci staff to pick dates/times for the coworking events which best work for everyone.
+- Create and/or identify issues in your rOpenSci repository as ‘Help wanted’ and ‘Good first issue’.
+- These can range from documentation to coding changes. We just ask that some issues are relatively accessible to contributors with less experience.
+- Attend one of the Coworking sessions to be available to offer advice or answer questions.
+- Have some availability before and after the Coworking event to respond via GitHub and Slack to issues, comments, or PRs which may arise from contributors outside of the two-hour coworking slot.
+
+If you participate, you can also expect that:
+
+- We will connect with you before the events to find a date/time for the coworking sessions and see if you have any questions regarding issue-labelling or the coworking sessions.
+- We will be available to support you during the Coworking sessions on Zoom, as well as on GitHub, Slack, or by email before and after.
+- You will receive a \$\[XXX\] USD stipend to help offset the time you spend teaching and mentoring these new contributors.
+
+With the support of \[FUNDER\].
+
+**Form fields**
+
+- Full Name\*
+- Email\*
+- Timezone\* - *Which timezone will you be in during the events? This information helps us to organize the events*
+- Which rOpenSci package(s) would you like to invite contribution for?
+- If you have more the one package, please list them below
+- Why would you like to participate? *2-3 sentences*
+
+> Originally we asked for maintainers of rOpenSci packages in particular, later however, we opened up registration to maintainers of any R package.
+
+### C.1.2 Registration for participants
+
+Join rOpenSci Minihackathons!
+
+These collaborative events \[ADD BLOG POST LINK\] are designed to help first-time contributors get started with open-source projects. Whether you’re improving documentation, reviewing translations, fixing bugs, or adding new features, our mentors will guide you every step of the way.
+
+No prior experience required. Non-first time contributors are very welcome too—just bring your curiosity and enthusiasm!
+
+Events are open and free.
+
+With the support of \[FUNDER\].
+
+Please, fill out this form to register for the events. We require this information to organize the meetings with mentors, breakout rooms and resources.
+
+**Form fields**
+
+\[\* fields are required\]
+
+- Full Name\*
+- Email\* *This email address will be used to send event information (zoom link and other resources) and the Slack channel invitation to interact before, during and after the event.*
+- Pronouns *Please indicate your pronouns (example: she, they, he)*
+- Country\*
+- Meetings\*
+- Choose the meeting(s) you plan to attend \[Drop down menu\]
+
+**Message after they register:**
+
+Thank you for registering for rOpenSci coworking and minihackathons for contributions to FOSS. You will get an email with the event information soon. Feel free to contact us at info@ropensci.org if you have any questions about these events.
+
+### C.1.3 Feedback Form
+
+This is an anonymous form for you to tell us what you thought of the event. This information is very useful for us to improve the organization and the overall experience for our participants.
+
+**Form fields**
+
+\[All are free-form answers with the exception of “How likely are you to recommend this event…”\]\
+\[No fields are required\]
+
+- One thing you liked *Please share one thing that you liked or which we should keep. One positive aspect of the meeting.*
+- One thing to improve *Please share one thing we could improve. One constructive criticism.*
+- How likely are you to recommend this even to a friend or colleague? \[0-10 Stars\]
+- How did you hear about the event? *Please mention all methods (Newsletter, Slack, Mastodon, BlueSky, Blog Post, LinkedIn, word of mouth, etc.*
+
+## C.2 Mini translathon
+
+### C.2.1 Attendees Registration - Portuguese
+
+Tradução + Hackathon = Translathon rOpenSci
+
+O objetivo é que a comunidade R conheça o rOpenSci e se reúna para aprender a contribuir com o projeto de tradução para o português.
+
+**Date and time** Monday, November 18, 2024 · 10am - 12pm GMT-3
+
+**Location** Online
+
+**Good to know**
+
+O Traslaton rOpenSci é realizado em conjunto com o LatinR
+
+O objetivo é que a comunidade do R conheça o rOpenSci e se reúna para aprender como contribuir com o projeto de tradução ativa do rOpenSci para o português e fazer contribuições durante o Traslatón. Várias pessoas da comunidade estarão presentes durante as duas horas do evento online para ajudá-lo durante sua contribuição.
+
+Agenda:
+
+- Começaremos com uma explicação de como funciona o processo de tradução, como fazer uma segunda revisão e onde sua ajuda é necessária para progredir na tradução.
+- Em seguida, trabalharemos em blocos de 30 minutos e nos reuniremos para ver o progresso que fizemos.
+- Explicaremos o processo da primeira revisão, indicaremos onde essa tarefa é necessária e depois voltaremos ao trabalho por 30 minutos.
+- Por fim, nos reuniremos novamente para analisar o progresso e organizar como continuaremos a trabalhar.
+
+Trabalharemos com o Guia de desenvolvimento de pacotes do rOpenSci. Todos que contribuírem para a tradução serão adicionados como autores dessa tradução quando a primeira versão do trabalho final for publicada. Os colaboradores serão convidados a participar do rOpenSci Slack.
+
+**Form fields**
+
+\[Name\] \[email\] \[country\]

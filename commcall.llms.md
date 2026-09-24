@@ -1,0 +1,35 @@
+# 4  Community Calls
+
+rOpenSci [Community Calls](https://ropensci.org/commcalls) are Zoom calls held several times a year featuring a panel of speakers on a specific topic with a significant Question & Answer period. Calls cover a variety of topics, from technical ([“A Journey through Arrow in R”](https://ropensci.org/commcalls/jun2023-arrow/)) to community ([“Set Up Your Package to Foster a Community”](https://ropensci.org/commcalls/apr2021-pkg-community/)). Most topics are in English, but we are introducing Calls in Spanish ([“Proyecto Multilingüe”](https://ropensci.org/es/commcalls/nov2023-multilenguaje/)) as well as in Portuguese ([“A comunidade R fala português”](https://ropensci.org/commcalls/translation-portuguese/), part of this Pilot).
+
+For general organizing, see our blog post [“How rOpenSci Runs Community Calls”](https://ropensci.org/blog/2021/02/02/ropensci-community-calls/) as well as our [“Checklist for a Community Call”](https://github.com/ropensci-org/community-calls/blob/master/checklist.md).
+
+In this chapter we will address the specifics of running a Community Call to support first time contributors to open source software.
+
+## 4.1 Communication
+
+This communication project connects our community calls with the mini-hackathon or mini-translathons that follow. Each channel is used to build momentum, share stories, and invite participation.
+
+We create a event page in our website under Community Calls to share the main information of the event:
+
+- Date
+- How to join
+- Speakers + Bio
+- Resources
+
+The event page is shared through our communications channels:
+
+- **Newsletter:** Our newsletter reaches a large audience (\>1000 opens per month). We shared all upcoming community calls in our HQ section and the resources (like video, articles and slides) after the call.
+
+- **Social Media:** Before the call, we use social media posts to announce the theme and raise awareness. We set the same agenda for all community calls: a “Save the date” announcement a month before, a reminder one week before the event, one day before the event and one hour before the call. During the community call, we live-post under a dedicated hashtag (#translathon and \#rohackathon2025), sharing screenshots, participant quotes, and quick updates to capture the energy of the event. After the call, we post highlights and linked to the [recap blog](./blog/2025/01/24/coworking-hackathons/), while beginning a countdown to the hackathon.
+
+- **Slack**: Ahead of the call, we post reminders and spark conversation about the event theme using different prompts, for example:
+
+  - “Do you remember your first time contribution…?”
+  - “Do you remember the first time you helped someone contribute…?”
+
+  These short stories added a personal touch to our communications and inspired people to join the events.
+
+  The “Save the date” announcement is also shared in the Slack workspaces of several communities which may be interested in the events, like R-Ladies, R-Devel and LatinR.
+
+- **Forums**: We also post the Community Call in the event category in several forums related with the topic, like The Carpentries Discuss, Posit Community and Sustain Forum. We share a short summary, the speakers and the link to the event page in these posts.

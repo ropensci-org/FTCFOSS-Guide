@@ -1,0 +1,35 @@
+# 3  Events Overview
+
+Here we have a rough overview of the projected timeline for running a set of events. One set of events consists of a Community Call paired with 1-2 hands-on mini-hackathons or mini-translathons.
+
+See the relevant chapter for specific details for organizing a specific event type.
+
+## 3.1 Timeline
+
+| Chapter | Task | Platform |
+|----|----|----|
+| [4](commcall.llms.md) | Contact potential panelists and moderators for Community Call | Email etc. |
+| [4](commcall.llms.md) | Choose date for Community call with participants’ input |  |
+| [4](commcall.llms.md) | Advertise Community call | Website / Social Media |
+| [5](translathon.llms.md)/[6](hackathon.llms.md) | Choose date(s) for mini-translathon/hackathon |  |
+| [5](translathon.llms.md)/[6](hackathon.llms.md) | Open call for mentors/maintainers at hands-on events | Blog / Registration |
+| [5](translathon.llms.md)/[6](hackathon.llms.md) | Advertise Mini-translathon(s)/hackathon(s) | Website / Social Media |
+| [5](translathon.llms.md)/[6](hackathon.llms.md) | Open call for participants at hands-on event(s) | Blog / Registration |
+| [4](commcall.llms.md) | Run Community Call | Zoom / Docs |
+| [5](translathon.llms.md)/[6](hackathon.llms.md) | Run mini-translathon(s)/hackathon(s) | Zoom / Docs |
+| [5](translathon.llms.md)/[6](hackathon.llms.md) | Evaluate participant [feedback](pilot.llms.md#feedback) |  |
+
+## 3.2 Summary Comparison
+
+| **Aspect** | **Mini-Hackathon** | **Translathon** |
+|----|----|----|
+| **Main Goal** | Help participants make their **first contributions** to FOSS projects, usually through coding or documentation. | Help participants make their **first contributions** to translations/localizations of FOSS documentation or websites. |
+| **Format** | 2-hour live online coworking session combining hackathon + rOpenSci coworking. | 2-hour live online coworking session combining translation + rOpenSci coworking. |
+| **Expected Participant Role** | Contribute code or small documentation fixes to issues prepared by maintainers. | Review translated texts prepared as pull requests. |
+| **Preparation by Staff** | Collect issues from maintainers, label them, and organize in GitHub Project Board. | Create and label translation PRs, organize them in GitHub Project Board. |
+| **Support Roles** | **Maintainers** (support contributions to their package) and **Mentors** (help participants with general contribution workflows). | **Editors** (review and maintain quality of translations) and **Mentors** (guide newcomers through the translation process/tools). |
+| **Contribution Type** | Coding tasks (tests, bug fixes, dependencies, deprecations, best practices, CI, etc.) and documentation tasks. | Translation tasks (documentation sections, tutorials, website pages, UI strings, blog post, books). |
+| **Breakout Rooms** | Coding support (GitHub, collaboration workflows), maintainer/package-specific, quiet. | Translation process/tools, language-specific (e.g., Portuguese, Spanish), review, quiet. |
+| **Slack Channel** | Dedicated mini-hackathon channel for continued discussion and follow-up. | Dedicated multilingual channel for ongoing translation and editing work. |
+| **Honorarium** | Offered to **maintainers** and **mentors** for time spent preparing and guiding participants. | Offered to **editors** and **mentors** for preparation, guidance, and quality review. |
+| **Pilot Example** | [2025 events](pilot.llms.md#mini-hackathons) with global coverage (Europe and Australia time zones). | [2024 event](pilot.llms.md#translathons) in Portuguese alongside LatinR, focusing on documentation translation (participants from Latin America and African countries). |

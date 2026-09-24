@@ -1,0 +1,24 @@
+# Appendix A — Example Resources
+
+## A.1 Pilot project 2024-2025
+
+- Community calls
+  - [A comunidade R fala português](https://ropensci.org/commcalls/translation-portuguese/) (Nov 6 2025)
+  - [From Novice to Contributor: Making and Supporting First-Time Contributions to FOSS](https://ropensci.org/commcalls/first-time-contributor/) (Jan 20 2025)
+- Blog posts
+  - [Looking for Maintainers to Support First-Time Contributors](https://ropensci.org/blog/2024/10/22/first-time-contributions/) (Oct 22 2024)
+  - [Coworking Mini-Hackathon for First-Time Contributors](https://ropensci.org/blog/2025/01/24/coworking-hackathons/) (Jan 24 2025)
+  - [Labels For Technical Writing Projects](https://ropensci.org/blog/2024/09/12/labels-writing-projects/) (Sep 12 2024)
+  - [Attract Contributors with ‘help wanted’ Issues](https://ropensci.org/blog/2023/09/19/help-wanted/) (Sep 19 2023)
+- Event listings
+  - [Translation + Hackathon = Traslaton rOpenSci](https://latinr.org/en/cronograma/translaton/translaton-en.html) at LatinR
+  - Coworking Mini-Hackathon for First-Time Contributors! ([Feb 4 2025](https://ropensci.org/events/coworking-2025-02/) & [Mar 4 2025](https://ropensci.org/events/coworking-2025-03/))
+- Coworking mini-translathons
+  - [Translating the rOpenSci Dev Guide into Portuguese: Collaboration, Community, Challenges, and Impact](https://ropensci.org/blog/2025/11/25/translation-devguide-pt/)
+  - [Traduzindo o Dev Guide da rOpenSci para o Português: Colaboração, Comunidade, Desafios e Impacto](https://ropensci.org/pt/blog/2025/11/25/tradução-devguide-pt/)
+  - [Translathon GitHub Project](https://github.com/orgs/ropensci/projects/7)
+- Coworking mini-hackathons
+  - [Coworking Document](https://docs.google.com/document/d/1juXuCMvz7a9BX_VK6SO4QCs7T78BZDHAs589wHjL3Ug/edit?tab=t.0#heading=h.jja0j3hbdd5p) (Mar 4 2025)
+  - [Slides](https://docs.google.com/presentation/d/1mMeMkt2Vy7B-ablhimxc2voEyqWOcTN-obuIUkgI1cE/edit?usp=sharing)
+  - [GitHub Issues Search](https://github.com/search?q=label%3Aro-hackathon-2025&type=issues)
+  - [GitHub Issues Project Board](https://github.com/orgs/rosadmin/projects/14/views/1)

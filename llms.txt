@@ -1,0 +1,15 @@
+# From User to Contributor: Organizing Events for First-Time Contributors
+
+## Pages
+
+- [From User to Contributor: Organizing Events for First-Time Contributors](index.llms.md)
+- [[2]{.chapter-number}  [Pilot]{.chapter-title}](pilot.llms.md)
+- [[[3]{.chapter-number}  [Events Overview]{.chapter-title}]{#overview .quarto-section-identifier}](event-overview.llms.md)
+- [[4]{.chapter-number}  [Community Calls]{.chapter-title}](commcall.llms.md)
+- [[[5]{.chapter-number}  [Mini-translathons]{.chapter-title}]{#translathon .quarto-section-identifier}](translathon.llms.md)
+- [[[6]{.chapter-number}  [Mini-hackathons]{.chapter-title}]{#hackathon .quarto-section-identifier}](hackathon.llms.md)
+- [Appendix A — Example Resources](resources.llms.md)
+- [Appendix B — Email templates](templates_emails.llms.md)
+- [Appendix C — Form templates](templates_forms.llms.md)
+- [Appendix D — Social Media templates](templates_social.llms.md)
+- [Appendix E — Social Media examples](examples_socials.llms.md)
